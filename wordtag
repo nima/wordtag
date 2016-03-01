@@ -33,16 +33,18 @@ if ARGV.size > 0 && File.exist?(input)
       else
         words = line.scan(/\*\*(\w+)\*\*/).flatten
         wordtags = line.scan(/#\w+/)
-        line = line.gsub(/^ *- */, '').gsub(/#\w+/, '').gsub(/\([ ,;]*\)/, '').strip
-        if words.empty?
-          #p line
-        else
-          words.each do |word|
-            wordtags.concat(tags)
-            word = Word.new(word, wordtags, line)
-            word.tags.map{|tag| tag.downcase}.each do |tag|
-              indexed[tag] = Set.new unless indexed.key? tag
-              indexed[tag] << word
+        line = line.gsub(/---*/,'').gsub(/^ *- */, '').gsub(/#\w+/, '').gsub(/\([ ,;]*\)/, '').strip
+        if line.size > 0
+          if words.empty?
+            puts "No **words**: #{line}"
+          else
+            words.each do |word|
+              wordtags.concat(tags)
+              word = Word.new(word, wordtags, line)
+              word.tags.map{|tag| tag.downcase}.each do |tag|
+                indexed[tag] = Set.new unless indexed.key? tag
+                indexed[tag] << word
+              end
             end
           end
         end
