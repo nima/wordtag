@@ -31,7 +31,7 @@ if ARGV.size > 0 && File.exist?(input)
         tags << "##{title.gsub(/\W+/, ' ').split().map{|w| w.downcase.capitalize}.join('')}"
         #puts "#{'#' * header} #{tags.join('/')}"
       else
-        words = line.scan(/\*\*(\w+)\*\*/).flatten
+        words = line.scan(/\*\*(\w+(?: \w+)*)\*\*/).map{|w| w.pop}
         wordtags = line.scan(/#\w+/)
         line = line.gsub(/---*/,'').gsub(/^ *- */, '').gsub(/#\w+/, '').gsub(/\([ ,;]*\)/, '').strip
         if line.size > 0
@@ -62,7 +62,8 @@ if ARGV.size > 0 && File.exist?(input)
       puts w
     end
     puts
-    puts "Related hashtags: #{words.map{|w| w.tags}.inject(:&).subtract(hashtags).to_a.join(', ')}"
+    related = hashtags.map{|ht| indexed[ht]}.inject(:&).map{|w| w.tags.map{|t| t.downcase}}.inject(:|) - hashtags
+    puts "Related hashtags: #{related.join(', ')}"
   end
 else
   puts "Usage: #{File.basename(__FILE__)} <input-file> [<hashtag> [<hashtag> [...]]]"
