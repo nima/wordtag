@@ -94,8 +94,9 @@
 
 ------------------------
 
-## Time
+## Time/Date
 
+### Time
 -   It's time for my **matutinal** yoga session.  (#time)
 -   **vespertine**.  (#time)
 -   twilight/**crepuscular**.  (#time)
@@ -103,6 +104,9 @@
 -   To **beguile** the long afternoon with a good book.  (#time)
 -   Through the **vicissitudes** of my life, the ups and downs, I've learned that.  (#time)
 -   All thoughts, feelings, and sensation is **fleeting**, **fugacious**, **impermanent**.  (#time #quality #quantity)
+
+### Date
+-   She was born on the **bissextus**, so no birthday party until the next world cup I guess.  (#date)
 
 ## Places
 
@@ -236,6 +240,7 @@
 ### Actions
 
 -   **extirpate** - to destroy or exterminate.  (#negative #action)
+-   It's best to **premiate** (award) thrift than a strike.   (#action)
 
 ### Emotions
 
