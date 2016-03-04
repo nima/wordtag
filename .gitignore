@@ -1,3 +1,6 @@
+/bundler/
+
+# Bundler
 *.gem
 *.rbc
 /.config
