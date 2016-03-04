@@ -13,7 +13,7 @@ Word = Struct.new(:word, :example, :tags) do
     self.example = example
   end
   def to_s
-    return "#{self.word} - #{self.example}"
+    return "#{self.word} (#{self.tags.to_a.join(', ')})"
   end
 end
 
@@ -63,12 +63,16 @@ if ARGV.size > 0 && File.exist?(input)
     end
   else
     words = hashtags.map{|ht| indexed[ht]}.delete_if{|s| s.nil?}.inject(:&)
-    words.each do |w|
-      puts w
+    unless words.empty?
+      words.each do |w|
+        puts w
+      end
+      puts
+      related = hashtags.map{|ht| indexed[ht]}.inject(:&).map{|w| w.tags.map{|t| t.downcase}}.inject(:|) - hashtags
+      puts "Related hashtags: #{related.join(', ')}"
+    else
+      puts "No matches"
     end
-    puts
-    related = hashtags.map{|ht| indexed[ht]}.inject(:&).map{|w| w.tags.map{|t| t.downcase}}.inject(:|) - hashtags
-    puts "Related hashtags: #{related.join(', ')}"
   end
 else
   puts "Usage: #{File.basename(__FILE__)} <input-file> [<hashtag> [<hashtag> [...]]]"

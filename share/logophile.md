@@ -1,7 +1,7 @@
 # Logophile
 
 ## Food
--   slurping a **supple**, **sopping**, **saporific** oyster from its shell is one of the most sensuous of pleasures. (#food, #positive)
+-   slurping a **supple**, **sopping**, **saporific** oyster from its shell is one of the most sensuous of pleasures. (#food #positive)
 -   An **antepreandial**/**preprandial** walk. (#food)
 -   Bono **gormandized** as the starving children looked on. (#food)
 -   Hmmm, it's time for my matutinal **gormandization** ceremony - a big breakfast. (#food)
@@ -23,28 +23,28 @@
 
 #### Collective Nouns
 
--   A **murder** of crows.  (#collectnoun, #english, #language)
--   An **unkindness** of vultures.  (#collectnoun, #english, #language)
+-   A **murder** of crows.  (#collectnoun #english #language)
+-   An **unkindness** of vultures.  (#collectnoun #english #language)
 
 ### Legal
 
--   **reprimand**, **reprove**, **rebuke** - to disprove.  (#legal, #language)
--   **rebuke**, **berate** - to scold.  (#behavior, #language)
--   Look, the **cabal** of Kabul here; NSA must be worried.  (#legal, #language)
--   You should self-**abdicate** and step down.  (#legal, #language)
--   He'd **arrogate** the right to make decisions.  (#legal, #language)
--   He has a tendency to **derogates** from the police, even when they're there to help.  (#legal, #language)
--   To **abrogate** a law.  (#legal, #language)
--   To **abate** a tax, abate her enthusiasm.  (#legal, #language)
--   To be discreet, **prudent**, **circumspect**.  (#legal, #language)
--   He **ceded** his position to his superior.  (#legal, #language)
--   A **dismayingly** tenuous argument.  (#legal, #language)
--   The exercise of absolute authority - **despotism**.  (#legal, #language)
--   A **purveyor** of goods.  (#legal, #language)
--   My reasons nor my drive for working at Amazon is not **pecuniary**.  (#legal, #language)
--   He finally **conceded** that his argument was flawed.  (#legal, #language)
--   **malfeasance** - ...  (#legal, #language)
--   I **assent**/**dissent** to your proposal.  I give my **assent**/**dissent** to this proposal.  (#legal, #language)
+-   **reprimand**, **reprove**, **rebuke** - to disprove.  (#legal #language)
+-   **rebuke**, **berate** - to scold.  (#behavior #language)
+-   Look, the **cabal** of Kabul here; NSA must be worried.  (#legal #language)
+-   You should self-**abdicate** and step down.  (#legal #language)
+-   He'd **arrogate** the right to make decisions.  (#legal #language)
+-   He has a tendency to **derogates** from the police, even when they're there to help.  (#legal #language)
+-   To **abrogate** a law.  (#legal #language)
+-   To **abate** a tax, abate her enthusiasm.  (#legal #language)
+-   To be discreet, **prudent**, **circumspect**.  (#legal #language)
+-   He **ceded** his position to his superior.  (#legal #language)
+-   A **dismayingly** tenuous argument.  (#legal #language)
+-   The exercise of absolute authority - **despotism**.  (#legal #language)
+-   A **purveyor** of goods.  (#legal #language)
+-   My reasons nor my drive for working at Amazon is not **pecuniary**.  (#legal #language)
+-   He finally **conceded** that his argument was flawed.  (#legal #language)
+-   **malfeasance** - ...  (#legal #language)
+-   I **assent**/**dissent** to your proposal.  I give my **assent**/**dissent** to this proposal.  (#legal #language)
 
 ### Speech/Banter/Language
 
@@ -60,6 +60,7 @@
 -   He's a **dragoman** in 3 languages.  (#talk)
 -   His nerves were wrecked; he could not so much as mumble a **holophrase**.  (#talk)
 -   She likes to **aggrandize** her own work, full of **smatter** when she talks.  (#talk)
+-   **rodomontade** - **vainglorious** boasting or bragging.  (#talk #negative #human #personality)
 -   Mr. Thompson is rather **parsimonious**/**frugal**/**penurious**/**miserly**/**niggardly** with his sentiments.  (#talk)
 -   The sort of **desultory** conversation is why I find these meetings mostly a wast of time.  (#talk)
 -   Your ideas are **embryonal** at best.  (#talk)
@@ -81,10 +82,11 @@
 -   Mid-sentence, he turned away with a shrug to point his admirable **aposiopesis**.  (#talk)
 -   The argument **culminated** in a fist fight.  (#talk)
 -   And **emphatic** speech.  (#talk)
--   **tact** - to speak carefully without hurting anyone's feelings.  (#talk, #human, #emotion)
+-   **tact** - to speak carefully without hurting anyone's feelings.  (#talk #human #emotion)
 -   **maugre** - in spite of.  (#talk)
 -   a formal expression of high praise; **eulogy**: An **encomium** by the president greeted the returning hero.
 -   A **parapraxis** is a Freudian slip.
+-   A **damagogue** is a a person, especially an orator or political leader, who gains power and popularity by arousing the emotions, passions, and prejudices of the people.  (#human #talk #provoke #emotion)
 
 ### Science
 
@@ -97,10 +99,10 @@
 -   It's time for my **matutinal** yoga session.  (#time)
 -   **vespertine**.  (#time)
 -   twilight/**crepuscular**.  (#time)
--   **nocturnal** vs **diurnal**.  (#time, #antonyms)
+-   **nocturnal** vs **diurnal**.  (#time #antonyms)
 -   To **beguile** the long afternoon with a good book.  (#time)
 -   Through the **vicissitudes** of my life, the ups and downs, I've learned that.  (#time)
--   All thoughts, feelings, and sensation is **fleeting**, **fugacious**, **impermanent**.  (#time, #quality, #quantity)
+-   All thoughts, feelings, and sensation is **fleeting**, **fugacious**, **impermanent**.  (#time #quality #quantity)
 
 ## Places
 
@@ -109,7 +111,7 @@
 -   **archipelago**
 -   **tract** of pasture - a large open **expanse**.
 -   The **provenance** of the ancient manuscripts has never been determined.  (#location)
--   Is this a **barroom**, and a **groggery**?  (#places, #location)
+-   Is this a **barroom**, and a **groggery**?  (#places #location)
 
 ### Nature
 
@@ -117,7 +119,7 @@
 
 ### Distance
 
--   **apogee** vs **perigee**.  (#distance, #physical)
+-   **apogee** vs **perigee**.  (#distance #physical)
 
 ------------------------
 
@@ -138,7 +140,7 @@
 -   A **fount** of inspiration to his new venture.  (#quantity)
 -   She's an **extravagant** shopper, an oniomaniac. (#quantity)
 -   She packs a **foison** of poison in her heart. (#quantity)
--   **proliferate**.  (#quantity, #growth)
+-   **proliferate**.  (#quantity #growth)
 -   **passel**.  (#quantity)
 
 ------------------------
@@ -147,7 +149,7 @@
 
 ### Human States, Behaviours, Personalities and Personality Traits
 
--   He's quite the **quixotic** cat - extravagantly **chivalrous** and romantic.  (#human, #quality)
+-   He's quite the **quixotic** cat - extravagantly **chivalrous** and romantic.  (#human #quality)
 -   **Oniomaniac** (shopping)
 -   **Bibliotaph** (books)
 -   **Taphephobia** ()
@@ -159,21 +161,22 @@
 -   **Hyperthermophile** (heat)
 -   **Cryophile** (cold)
 -   **Ecclesiastic** (churchahol)
--   **Amenable**, **amicable**, **amiable**.  (#human, #personality)
--   **pugnacious**, **bellicose**, **belligerent** - ready to quarrel/fight.  (#human, #personality)
--   **insouciant**, **nonchalant** - free from worry, anxiety.  (#human, #personality)
+-   **Amenable**, **amicable**, **amiable**.  (#human #personality)
+-   **pugnacious**, **bellicose**, **belligerent** - ready to quarrel/fight.  (#human #personality)
+-   **insouciant**, **nonchalant** - free from worry, anxiety.  (#human #personality)
 -   **koinophilia**.  (symmetry)
--   **retiring** - a person that is shy or modest to a fault.  (#human, #personality)
--   **solemn**, **mirthless**, **earnest**.  (#human, #personality)
--   **hebetude** - the state of being dull; lethargy.  (#human, #state)
--   **affluence** -  (#human, #state)
--   **complaisant** (pleaser, a compliant/conforming yes-man), **complacent**.  (#human, #behaviour, #personality, #negative)
--   A **profligate** person.  (#negative, #human, #behavior)
--   An **invidious** individual.  (#negative, #human, #behavior)
+-   **retiring** - a person that is shy or modest to a fault.  (#human #personality)
+-   **solemn**, **mirthless**, **earnest**.  (#human #personality)
+-   **hebetude** - the state of being dull; lethargy.  (#human #state)
+-   **affluence** -  (#human #state)
+-   **complaisant** (pleaser, a compliant/conforming yes-man), **complacent**.  (#human #behaviour #personality #negative)
+-   A **profligate** person.  (#negative #human #behavior)
+-   An **invidious** individual.  (#negative #human #behavior)
+-   A **factomum** is any employee having numerous different/unrelated responsibilities.
 
 ### Value
 
--   **nugatory** - trifling, worthless or futile.  (#quality, #value)
+-   **nugatory** - trifling, worthless or futile.  (#quality #value)
 
 ### Choice
 
@@ -213,33 +216,33 @@
 
 ### Behaviors
 
--   **flag** - to lose interest, energy, and enthusiasm.  (#human, #behavior)
--   **pontificate**, a pundit - pompous, opinionated or dogmatic.  One who exhibits an ostentatious display of importance.  (#human, #behavior)
+-   **flag** - to lose interest, energy, and enthusiasm.  (#human #behavior)
+-   **pontificate**, a pundit - pompous, opinionated or dogmatic.  One who exhibits an ostentatious display of importance.  (#human #behavior)
 -   I like to **pandiculate** often, specially when I first open my eyes in the morning.  (#physical)
 -   Time to **exungulate**.  (#physical)
 -   Uber drivers often lack the gift of **ubiety**.  (#physical)
--   Let us **confabulate**.  (#physical, #human)
+-   Let us **confabulate**.  (#physical #human)
 -   The Seattle winter can turn you into a **slugabed**; and gift you with a generous dose of **lassitude** when you finally do get out of bed.  (#physical)
--   Perhaps I'm just **koinophilic**.  (#physical, #human, #behavior)
+-   Perhaps I'm just **koinophilic**.  (#physical #human #behavior)
 -   He had a sad **countenance** after his call with the mayor (perhaps the mayor did not **countenance** his proposal).  (#physical)
 -   He **jostled** his way through the **throng** of passengers.  (#physical)
--   The **ludic** behavior of kittens is infinitely cute.  (#physical, #living)
--   He likes to **frolic**, **caper** and **cavort** at every party, prance and gambol around.  (#physical, #living)
--   **nimble**, **celerity**;  (#physical, #behavior)
--   Try to **placate** the **indignant** customer.  (#human, #behavior, #action, #state)
--   His thin lips were continually curved in an **insolent**, mocking, and even malicious smile.  (#negative, #)
--   The 2yo exhibited **obstinacy**.  (#behavior, #action)
+-   The **ludic** behavior of kittens is infinitely cute.  (#physical #living)
+-   He likes to **frolic**, **caper** and **cavort** at every party, prance and gambol around.  (#physical #living)
+-   **nimble**, **celerity**;  (#physical #behavior)
+-   Try to **placate** the **indignant** customer.  (#human #behavior #action #state)
+-   His thin lips were continually curved in an **insolent**, mocking, and even malicious smile.  (#negative #)
+-   The 2yo exhibited **obstinacy**.  (#behavior #action)
 
 ### Actions
 
--   **extirpate** - to destroy or exterminate.  (#negative, #action)
+-   **extirpate** - to destroy or exterminate.  (#negative #action)
 
 ### Emotions
 
 The word **emotion** is derived from the Latin word **emovere** \- meaning *to disturb*.  (#latin)
 
 -   **pathos** - a quality that stirs much emotions; a song that invoked a great deal of pathos; pity, sympathy.  (#emotion)
--   **desiderata** (**desideratum**) - things wanted or needed.  (#human, #want, #need, #emotion)
+-   **desiderata** (**desideratum**) - things wanted or needed.  (#human #want #need #emotion)
 -   **tremulous** writing (written with a shaky hand).
 -   **barghest** - a legendary dog-like goblin believed to **portend** death or misfortune.
 -   **gargoyle** - a grotesquely carved figure of a vicious human or animal.
@@ -249,13 +252,13 @@ The word **emotion** is derived from the Latin word **emovere** \- meaning *to d
 
 #### Love
 
--   **propinquity** is the strongest of agents in a love affair.  (#love, #distance, #emotion)
--   The **eudemonic** pleasure of seeing her rest is all I needed.  (#love, #emotion)
--   He's **uxorious** (foolishly fond of/affectionately submissive toward his wife); witness he, and you have witnessed adulation.  (#love, #emotion)
--   An **unwonted** kindness from an unkindness of vultures.  (#love, #emotion)
--   The **sapiosexual** was enticed by his erudite coquetry.  (#love, #emotion)
--   She spoke with **ardor**, from **whence** I developed **ardor** for her.  (#love, #emotion, #english)
--   She has an **amative**/**amorous** disposition.  (#love, #personality)
+-   **propinquity** is the strongest of agents in a love affair.  (#love #distance #emotion)
+-   The **eudemonic** pleasure of seeing her rest is all I needed.  (#love #emotion)
+-   He's **uxorious** (foolishly fond of/affectionately submissive toward his wife); witness he, and you have witnessed adulation.  (#love #emotion)
+-   An **unwonted** kindness from an unkindness of vultures.  (#love #emotion)
+-   The **sapiosexual** was enticed by his erudite coquetry.  (#love #emotion)
+-   She spoke with **ardor**, from **whence** I developed **ardor** for her.  (#love #emotion #english)
+-   She has an **amative**/**amorous** disposition.  (#love #personality)
 
 ### Surprise
 
@@ -267,17 +270,17 @@ The word **emotion** is derived from the Latin word **emovere** \- meaning *to d
 -   **telegnosis**.  (#fiction)
 -   **fictitious** story.  (#fiction)
 -   **factitious** laughter, enthusiasm, flowers.  (#fiction)
--   **aeromancer** - one whom predicts future events from observation of weather conditions.  (#fiction, #human, #talent)
--   **geomancer** - one who practices divination by geographic features or by figures or lines.  (#fiction, #human, #talent)
--   **divination** - the practice of attempting to foretell future events or discover hidden knowledge by **occult** or supernatural means.  (#fiction, #talent)
+-   **aeromancer** - one whom predicts future events from observation of weather conditions.  (#fiction #human #talent)
+-   **geomancer** - one who practices divination by geographic features or by figures or lines.  (#fiction #human #talent)
+-   **divination** - the practice of attempting to foretell future events or discover hidden knowledge by **occult** or supernatural means.  (#fiction #talent)
 
 ------------------------
 
 ## Movement
 
--   A most nimble and **ambulant** fly.  (#physical, #movement)
--   **suffuse** - overspread  with or as with light, color, liquid, gas, etc.  (#physical, #movement)
--   Watch the bubbles **coalesce** into one super bubble.  (#physical, #movement)
+-   A most nimble and **ambulant** fly.  (#physical #movement)
+-   **suffuse** - overspread  with or as with light, color, liquid, gas, etc.  (#physical #movement)
+-   Watch the bubbles **coalesce** into one super bubble.  (#physical #movement)
 
 ------------------------
 
@@ -288,12 +291,16 @@ The word **emotion** is derived from the Latin word **emovere** \- meaning *to d
 -   **latericeous**.  (#color)
 -   The **piebald** cow was grazing on the field.  (#color)
 
-### Shapes & Arrangements
+### Things, Shapes & Arrangements
 
--   **quincunx** - objects arranges as 5 on a die.  (#physical, #arrangement)
+-   **quincunx** - objects arranges as 5 on a die.  (#physical #arrangement)
 -   **pervade** - the first thing I noticed was the faint smell of piss that was pervading the subway.  (#physical)
--   **antipodes** (diametrically opposite one another on the globe).  (#physical, relativity)
--   **interstitial**.  (#physical, #relativity)
+-   **antipodes** (diametrically opposite one another on the globe).  (#physical relativity)
+-   **interstitial**.  (#physical #relativity)
+
+#### Literature and Books
+-   A **florilegium** - a collection of literary pieces.  (#language #literature)
+-   an **anthology** is a collection of notes taken by many authors around the same period.  (#language #literature)
 
 ### Living Beings
 
@@ -304,7 +311,7 @@ The word **emotion** is derived from the Latin word **emovere** \- meaning *to d
 -   Your eyes are an example of **enantiomorphic** perfection; perhaps I'm just koinophilic.  (#physical)
 -   to wallow in **sybaritic** splendor, to be savoured by the soul.  (#physical)
 -   The **peripatetic** life is the only truly fashionable life here in Seattle.  (#physical)
--   The **apatetic** chameleon was very impressive but unimpressed.  (#life, #physical, #color)
+-   The **apatetic** chameleon was very impressive but unimpressed.  (#life #physical #color)
 
 #### Life & Death
 
@@ -315,8 +322,9 @@ The word **emotion** is derived from the Latin word **emovere** \- meaning *to d
 
 ##### Disease
 
--   **dysentery** is not great.  (#disease)
--   A **rapacious** **malady**.  (#disease)
+-   **dysentery** is not great.  (#disease negative)
+-   A **rapacious** **malady**.  (#disease negative)
+-   A **virulent** virus.  (#disease #negative)
 
 ### Other
 
@@ -453,5 +461,6 @@ The word **emotion** is derived from the Latin word **emovere** \- meaning *to d
 -   To **calumniate** his good name is unacceptable.  (#negative)  (#negative)
 -   **internecine** -  (#negative)
 -   This **supercilious** **sycophant** is getting on my nerves.  (#negative)
+-   **odious** - deserving or causing hatred, **detestable**.  (#negative #provoking #emotion)
 
 ###### vim:syntax=markdown
