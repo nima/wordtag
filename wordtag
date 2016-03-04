@@ -1,6 +1,10 @@
 #!/usr/bin/env ruby
 
+require 'rubygems'
+require 'bundler/setup'
+
 require 'set'
+#require 'wordnik'
 
 Word = Struct.new(:word, :example, :tags) do
   def initialize(word, tags, example)
@@ -23,10 +27,11 @@ if ARGV.size > 0 && File.exist?(input)
   File.open(input, 'r') do |fH|
     l = 0
     fH.each_line.map{|line| line.strip}.each do |line|
-      heading = line.match('^(#{1,5}) (.*)')
+      heading = line.match('^(#{1,6}) (.*)')
       if heading
         header = heading[1].length
         title  = heading[2]
+        next title.match(/vim:/)
         tags = tags[0...header-1]
         tags << "##{title.gsub(/\W+/, ' ').split().map{|w| w.downcase.capitalize}.join('')}"
         #puts "#{'#' * header} #{tags.join('/')}"
