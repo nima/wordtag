@@ -1,6 +1,9 @@
+Title: 
+
 # Logophile
 
 ## Food
+
 -   slurping a **supple**, **sopping**, **saporific** oyster from its shell is one of the most sensuous of pleasures. (#food #positive)
 -   An **antepreandial**/**preprandial** walk. (#food)
 -   Bono **gormandized** as the starving children looked on. (#food)
@@ -39,25 +42,26 @@
 -   To be discreet, **prudent**, **circumspect**.  (#legal #language)
 -   He **ceded** his position to his superior.  (#legal #language)
 -   A **dismayingly** tenuous argument.  (#legal #language)
--   The exercise of absolute authority - **despotism**.  (#legal #language)
+-   The exercise of absolute authority - **despotism**.  (#legal #language #negative #power)
 -   A **purveyor** of goods.  (#legal #language)
--   My reasons nor my drive for working at Amazon is not **pecuniary**.  (#legal #language)
+-   My reasons nor my drive for working at Amazon is not **pecuniary**.  (#legal #language #money)
 -   He finally **conceded** that his argument was flawed.  (#legal #language)
--   **malfeasance** - ...  (#legal #language)
+-   **malfeasance** - illegal act by public official  (#legal #language #negative)
 -   I **assent**/**dissent** to your proposal.  I give my **assent**/**dissent** to this proposal.  (#legal #language)
+-   **isonomy** - equality in political rights.  (#legal #positive)
 
 ### Speech/Banter/Language
 
 -   The **definien** defines the **definiendum**.  (#talk)
 -   They bid her farewell; an emotional **valediction** (with a valedictory oration) - or was it a tumescent dithyramb?  Hmmm.  (#talk)
--   It's best not to **extemporize** an oration.  (#talk)
--   He delivered his message **emphatically**.  (#talk)
--   **vernacular**.  (#talk)
+-   An **autoschediasm is** something that is improvized or **extemporize**, such as an **extemporized** oration.  (#speech)
+-   He delivered his message **emphatically**.  (#speech)
+-   **vernacular**.  (#language)
 -   **spoonerism** (blushing crow/crushing blow, half-warmed fish/half-formed wish, sew me the sheets/show me the seats, etc.).  (#talk)
 -   A **sinuous** question while driving along a sinuous path.  (#talk)
 -   My fellow bards and **scops**; more **jocular** **jargon** from the joker; the antics of the jester annoyed the king.  (#talk)
 -   A most **convivial** atmosphere my good ser.  (#talk)
--   He's a **dragoman** in 3 languages.  (#talk)
+-   He's a **dragoman** in 3 languages.  (#talk #language)
 -   His nerves were wrecked; he could not so much as mumble a **holophrase**.  (#talk)
 -   She likes to **aggrandize** her own work, full of **smatter** when she talks.  (#talk)
 -   **rodomontade** - **vainglorious** boasting or bragging.  (#talk #negative #human #personality)
@@ -97,6 +101,7 @@
 ## Time/Date
 
 ### Time
+
 -   It's time for my **matutinal** yoga session.  (#time)
 -   **vespertine**.  (#time)
 -   twilight/**crepuscular**.  (#time)
@@ -106,6 +111,7 @@
 -   All thoughts, feelings, and sensation is **fleeting**, **fugacious**, **impermanent**.  (#time #quality #quantity)
 
 ### Date
+
 -   She was born on the **bissextus**, so no birthday party until the next world cup I guess.  (#date)
 
 ## Places
@@ -116,6 +122,7 @@
 -   **tract** of pasture - a large open **expanse**.
 -   The **provenance** of the ancient manuscripts has never been determined.  (#location)
 -   Is this a **barroom**, and a **groggery**?  (#places #location)
+-   A **commodious** apartment.  (#physical, #space, #location)
 
 ### Nature
 
@@ -151,7 +158,7 @@
 
 ## Qualities
 
-### Human States, Behaviours, Personalities and Personality Traits
+### Human States, behaviors, Personalities and Personality Traits
 
 -   He's quite the **quixotic** cat - extravagantly **chivalrous** and romantic.  (#human #quality)
 -   **Oniomaniac** (shopping)
@@ -173,14 +180,15 @@
 -   **solemn**, **mirthless**, **earnest**.  (#human #personality)
 -   **hebetude** - the state of being dull; lethargy.  (#human #state)
 -   **affluence** -  (#human #state)
--   **complaisant** (pleaser, a compliant/conforming yes-man), **complacent**.  (#human #behaviour #personality #negative)
+-   **complaisant** (pleaser, a compliant/conforming yes-man), **complacent**.  (#human #behavior #personality #negative)
 -   A **profligate** person.  (#negative #human #behavior)
 -   An **invidious** individual.  (#negative #human #behavior)
--   A **factomum** is any employee having numerous different/unrelated responsibilities.
-
-### Value
-
--   **nugatory** - trifling, worthless or futile.  (#quality #value)
+-   A **factomum** is any employee having numerous different/unrelated responsibilities.  (#human #behavior)
+-   A **quiescent** mind - quiet, still, motionless, inactive.  (#state)
+-   **acquiesce**: silent agreement without objection; resignation to an imposed rule or an idea;  We shall never **acquiesce**.  (#human #behavior)
+-   **acquiescence**: tacit assent; agreement by silence; acquiescence for the sake of social cohesion; could be the result of weakness or apathy.  (#human #behavior)
+-   She seemed **capitulated**/resigned to the fact that life is only ever going to be so good; she had **relinquished** the idea that happiness was even a possibility; **acquiescence** to an unhappy life.  (#human #behavior #negative)
+-   **nugatory** - trifling, worthless or futile.  (#human #quality #value #negative)
 
 ### Choice
 
@@ -304,13 +312,14 @@ The word **emotion** is derived from the Latin word **emovere** \- meaning *to d
 -   **interstitial**.  (#physical #relativity)
 
 #### Literature and Books
+
 -   A **florilegium** - a collection of literary pieces.  (#language #literature)
 -   an **anthology** is a collection of notes taken by many authors around the same period.  (#language #literature)
 
 ### Living Beings
 
 -   **proprioception** - awareness of where one is in relation to one's surroundings.  (#physical)
--   A rock climber? he's a **saxicoline**, living and growing amongst the rocks!  (#physical)
+-   A rock climber? he's a **saxicoline**/**rupestrine**, living and growing amongst the rocks!  (#physical, #nature)
 -   Hello! My **abdominous** friend! Nice paunch.  (#physical)
 -   When I say she's beautiful, I'm not just alluding to her **pulchritude**.  (#physical)
 -   Your eyes are an example of **enantiomorphic** perfection; perhaps I'm just koinophilic.  (#physical)
@@ -329,7 +338,7 @@ The word **emotion** is derived from the Latin word **emovere** \- meaning *to d
 
 -   **dysentery** is not great.  (#disease negative)
 -   A **rapacious** **malady**.  (#disease negative)
--   A **virulent** virus.  (#disease #negative)
+-   A **virulent** (spitefully hostile) virus.  (#disease #negative)
 
 ### Other
 
@@ -362,6 +371,7 @@ The word **emotion** is derived from the Latin word **emovere** \- meaning *to d
 -   Let's hold that problem in **abeyance** for now.
 -   I love to work with children while they're still **ingenuous**.
 -   **conflate**
+-   **assiduous** reading/exercising; (constant/unremitting) student.
 
 ### Positive
 
@@ -386,7 +396,6 @@ The word **emotion** is derived from the Latin word **emovere** \- meaning *to d
 -   Rick, the **genial** sage has a remarkable **acumen** in networking matters.  (#positive)
 -   A confident and **prepossessing** lady.  (#positive)
 -   Yusef, my **consanguineous** friend.  (#positive)
--   We shall never **acquiesce**.  (#positive)
 -   The **precocious** **prodigy** was only 12 when he discovered...  (#positive)
 -   The **incontrovertible** truth.  (#positive)
 -   The **irrefutable** evidence.  (#positive)
@@ -436,8 +445,6 @@ The word **emotion** is derived from the Latin word **emovere** \- meaning *to d
 -   His sudden blaze of anger was **foudroyant**.  (#negative)
 -   They all stayed **complacently** at their homes around the volcano, failing to heed the warnings of the authority and the giant angry volcano itself.  (#negative)
 -   Your **apathy** is pathetic - you listless sloth.  (#negative)
--   She seemed **capitulated**/resigned to the fact that life is only ever going to be so good; she had **relinquished** the idea that happiness was even a possibility; **acquiescence** to an unhappy life.  (#negative)
--   **acquiescence**: tacit assent; **acquiesce**: silent agreement without objection; resignation to an imposed rule or an idea.  (#negative)
 -   After being sufficiently ridiculed, she **stoically** packed her bags, and walked without any words, sounds, or even an expression.  (#negative)
 -   Your team played **dismally** this evening, I'm glad I did not wager a penny on them.  (#negative)
 -   A man of such **unimposing** stature, so lacking in **virility**, he may well have milk in his breasts.  (#negative)
