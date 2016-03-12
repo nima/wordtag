@@ -1,5 +1,3 @@
-Title: 
-
 # Logophile
 
 ## Food
@@ -21,8 +19,9 @@ Title:
 
 ### English
 
--   **malapropism** was his gift.
--   **appellation** - the act of naming
+-   **malapropism** was his gift.  (#language)
+-   **appellation** - the act of naming.  (#language)
+-   **metathesis** - the transposition of letters, syllables, or sounds in a word.  (#language)
 
 #### Collective Nouns
 
@@ -189,6 +188,7 @@ Title:
 -   **acquiescence**: tacit assent; agreement by silence; acquiescence for the sake of social cohesion; could be the result of weakness or apathy.  (#human #behavior)
 -   She seemed **capitulated**/resigned to the fact that life is only ever going to be so good; she had **relinquished** the idea that happiness was even a possibility; **acquiescence** to an unhappy life.  (#human #behavior #negative)
 -   **nugatory** - trifling, worthless or futile.  (#human #quality #value #negative)
+-   **contrition** - the state of feeling remorseful and penitent.  (#human #state)
 
 ### Choice
 
@@ -308,8 +308,9 @@ The word **emotion** is derived from the Latin word **emovere** \- meaning *to d
 
 -   **quincunx** - objects arranges as 5 on a die.  (#physical #arrangement)
 -   **pervade** - the first thing I noticed was the faint smell of piss that was pervading the subway.  (#physical)
--   **antipodes** (diametrically opposite one another on the globe).  (#physical relativity)
--   **interstitial**.  (#physical #relativity)
+-   **antipodes** (diametrically opposite one another on the globe).  (#physical #relative)
+-   **interstitial**.  (#physical #relative)
+-   **pinnate** - resembling a feather, as in construction or arrangement.  (#arrangement)
 
 #### Literature and Books
 

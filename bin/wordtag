@@ -15,6 +15,9 @@ Word = Struct.new(:word, :example, :tags) do
   def to_s
     return "#{self.word} (#{self.tags.to_a.join(', ')})"
   end
+  def to_str
+    return self.word
+  end
 end
 
 indexed = {}
@@ -22,7 +25,9 @@ tags = []
 
 input = ARGV[0]
 if ARGV.size > 0 && File.exist?(input)
-  hashtags = ARGV[1..-1].map{|w| "##{w.sub(/^#/,'').downcase}"}
+  regexes, hashtags = ARGV[1..-1].partition{|token| token.match(/^\/.+\/$/)}
+  hashtags.map!{|w| "##{w.sub(/^#/,'').downcase}"}
+  regexes.map!{|r| Regexp.new r[1...-1]}
 
   File.open(input, 'r') do |fH|
     l = 0
@@ -57,21 +62,30 @@ if ARGV.size > 0 && File.exist?(input)
     end
   end
 
-  if hashtags.empty?
+  if hashtags.empty? && regexes.empty?
     indexed.each do |hashtag,words|
       puts "#{hashtag}: #{words.size}"
     end
   else
-    words = hashtags.map{|ht| indexed[ht]}.delete_if{|s| s.nil?}.inject(:&)
-    unless words.empty?
-      words.each do |w|
-        puts w
-      end
-      puts
-      related = hashtags.map{|ht| indexed[ht]}.inject(:&).map{|w| w.tags.map{|t| t.downcase}}.inject(:|) - hashtags
-      puts "Related hashtags: #{related.join(', ')}"
+    words = nil
+    if hashtags.empty?
+      words = indexed.values.inject(:|).to_set
     else
-      puts "No matches"
+      words = hashtags.select{|ht| indexed.key? ht}.map{|ht| indexed[ht]}.to_set
+      words = words.inject(:&) unless words.empty?
+    end
+
+    unless regexes.empty?
+      words.select!{|w| regexes.map{|r| r.match(w)}.all? }
+    end
+
+    unless words.empty?
+      words.each{|w| puts w}
+    end
+
+    unless hashtags.empty?
+      related = hashtags.map{|ht| indexed[ht]}.inject(:&).map{|w| w.tags.map{|t| t.downcase}}.inject(:|) - hashtags
+      puts "Related hashtags: #{related.join(', ')}" unless related.empty?
     end
   end
 else
