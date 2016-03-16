@@ -186,9 +186,13 @@
 -   A **quiescent** mind - quiet, still, motionless, inactive.  (#state)
 -   **acquiesce**: silent agreement without objection; resignation to an imposed rule or an idea;  We shall never **acquiesce**.  (#human #behavior)
 -   **acquiescence**: tacit assent; agreement by silence; acquiescence for the sake of social cohesion; could be the result of weakness or apathy.  (#human #behavior)
+-   **saturnine** - sluggish in temprement, taciturn, gloomy.  (#behavior)
 -   She seemed **capitulated**/resigned to the fact that life is only ever going to be so good; she had **relinquished** the idea that happiness was even a possibility; **acquiescence** to an unhappy life.  (#human #behavior #negative)
 -   **nugatory** - trifling, worthless or futile.  (#human #quality #value #negative)
 -   **contrition** - the state of feeling remorseful and penitent.  (#human #state)
+-   **apostasy** - a total disertion or departure from one's religion, principles, party, cause, etc.  (#human, #behavior, #change)
+-   **sculduddery** - obscene behavior, lewdness,  fornication.  (#human #behavior #negative)
+-   **sculduggery** - mean dishonesty, trickery.  (#human #behavior #negative)
 
 ### Choice
 
