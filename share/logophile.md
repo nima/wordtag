@@ -121,7 +121,7 @@
 -   **tract** of pasture - a large open **expanse**.
 -   The **provenance** of the ancient manuscripts has never been determined.  (#location)
 -   Is this a **barroom**, and a **groggery**?  (#places #location)
--   A **commodious** apartment.  (#physical, #space, #location)
+-   A **commodious** apartment.  (#physical #space #location)
 
 ### Nature
 
@@ -157,6 +157,8 @@
 
 ## Qualities
 
+-   **amaranthine** - a lady of amaranthine beauty; perenial.  (#quality)
+
 ### Human States, behaviors, Personalities and Personality Traits
 
 -   He's quite the **quixotic** cat - extravagantly **chivalrous** and romantic.  (#human #quality)
@@ -179,20 +181,6 @@
 -   **solemn**, **mirthless**, **earnest**.  (#human #personality)
 -   **hebetude** - the state of being dull; lethargy.  (#human #state)
 -   **affluence** -  (#human #state)
--   **complaisant** (pleaser, a compliant/conforming yes-man), **complacent**.  (#human #behavior #personality #negative)
--   A **profligate** person.  (#negative #human #behavior)
--   An **invidious** individual.  (#negative #human #behavior)
--   A **factomum** is any employee having numerous different/unrelated responsibilities.  (#human #behavior)
--   A **quiescent** mind - quiet, still, motionless, inactive.  (#state)
--   **acquiesce**: silent agreement without objection; resignation to an imposed rule or an idea;  We shall never **acquiesce**.  (#human #behavior)
--   **acquiescence**: tacit assent; agreement by silence; acquiescence for the sake of social cohesion; could be the result of weakness or apathy.  (#human #behavior)
--   **saturnine** - sluggish in temprement, taciturn, gloomy.  (#behavior)
--   She seemed **capitulated**/resigned to the fact that life is only ever going to be so good; she had **relinquished** the idea that happiness was even a possibility; **acquiescence** to an unhappy life.  (#human #behavior #negative)
--   **nugatory** - trifling, worthless or futile.  (#human #quality #value #negative)
--   **contrition** - the state of feeling remorseful and penitent.  (#human #state)
--   **apostasy** - a total disertion or departure from one's religion, principles, party, cause, etc.  (#human, #behavior, #change)
--   **sculduddery** - obscene behavior, lewdness,  fornication.  (#human #behavior #negative)
--   **sculduggery** - mean dishonesty, trickery.  (#human #behavior #negative)
 
 ### Choice
 
@@ -247,7 +235,21 @@
 -   **nimble**, **celerity**;  (#physical #behavior)
 -   Try to **placate** the **indignant** customer.  (#human #behavior #action #state)
 -   His thin lips were continually curved in an **insolent**, mocking, and even malicious smile.  (#negative #)
--   The 2yo exhibited **obstinacy**.  (#behavior #action)
+-   The 2yo exhibited **obstinacy**.  (#human #behavior #action)
+-   **complaisant** (pleaser, a compliant/conforming yes-man), **complacent**.  (#human #behavior #personality #negative)
+-   A **profligate** person.  (#negative #human #behavior)
+-   An **invidious** individual.  (#negative #human #behavior)
+-   A **factomum** is any employee having numerous different/unrelated responsibilities.  (#human #behavior)
+-   A **quiescent** mind - quiet, still, motionless, inactive.  (#state)
+-   **acquiesce**: silent agreement without objection; resignation to an imposed rule or an idea;  We shall never **acquiesce**.  (#human #behavior)
+-   **acquiescence**: tacit assent; agreement by silence; acquiescence for the sake of social cohesion; could be the result of weakness or apathy.  (#human #behavior)
+-   **saturnine** - sluggish in temprement, taciturn, gloomy.  (#behavior)
+-   She seemed **capitulated**/resigned to the fact that life is only ever going to be so good; she had **relinquished** the idea that happiness was even a possibility; **acquiescence** to an unhappy life.  (#human #behavior #negative)
+-   **nugatory** - trifling, worthless or futile.  (#human #quality #value #negative)
+-   **contrition** - the state of feeling remorseful and penitent.  (#human #state)
+-   **apostasy** - a total disertion or departure from one's religion, principles, party, cause, etc.  (#human #behavior #change)
+-   **sculduddery** - obscene behavior, lewdness,  fornication.  (#human #behavior #negative)
+-   **sculduggery** - mean dishonesty, trickery.  (#human #behavior #negative)
 
 ### Actions
 
@@ -324,7 +326,7 @@ The word **emotion** is derived from the Latin word **emovere** \- meaning *to d
 ### Living Beings
 
 -   **proprioception** - awareness of where one is in relation to one's surroundings.  (#physical)
--   A rock climber? he's a **saxicoline**/**rupestrine**, living and growing amongst the rocks!  (#physical, #nature)
+-   A rock climber? he's a **saxicoline**/**rupestrine**, living and growing amongst the rocks!  (#physical #nature)
 -   Hello! My **abdominous** friend! Nice paunch.  (#physical)
 -   When I say she's beautiful, I'm not just alluding to her **pulchritude**.  (#physical)
 -   Your eyes are an example of **enantiomorphic** perfection; perhaps I'm just koinophilic.  (#physical)
