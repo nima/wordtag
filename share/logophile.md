@@ -31,7 +31,7 @@
 ### Legal
 
 -   **reprimand**, **reprove**, **rebuke** - to disprove.  (#legal #language)
--   **rebuke**, **berate** - to scold.  (#behavior #language)
+-   **rebuke**, **berate**, **reproved**, **admonished**, **reprimanded** - to scold, criticized.  (#behavior #language #negative)
 -   Look, the **cabal** of Kabul here; NSA must be worried.  (#legal #language)
 -   You should self-**abdicate** and step down.  (#legal #language)
 -   He'd **arrogate** the right to make decisions.  (#legal #language)
@@ -90,10 +90,15 @@
 -   a formal expression of high praise; **eulogy**: An **encomium** by the president greeted the returning hero.
 -   A **parapraxis** is a Freudian slip.
 -   A **damagogue** is a a person, especially an orator or political leader, who gains power and popularity by arousing the emotions, passions, and prejudices of the people.  (#human #talk #provoke #emotion)
+-   Your theory leaves us with a great deal of **conjecture** and very little evidence.  (#talk #language)
 
 ### Science
 
 -   **posteriori conclusions** - reasoning from known facts to possible conclusions.  (#science)
+
+#### Biology
+
+-   **consanguineous** - having the same ancestry or descent; related by blood
 
 ------------------------
 
@@ -158,6 +163,8 @@
 ## Qualities
 
 -   **amaranthine** - a lady of amaranthine beauty; perenial.  (#quality)
+-   **renascent** - being reborn; springing again into being or vigor.  (#quality #state)
+-   **propitious** - **auspicious**, propitious omens.  (#quality)
 
 ### Human States, behaviors, Personalities and Personality Traits
 
@@ -309,6 +316,7 @@ The word **emotion** is derived from the Latin word **emovere** \- meaning *to d
 
 -   **latericeous**.  (#color)
 -   The **piebald** cow was grazing on the field.  (#color)
+-   **amaranthine** - a purplish-red color.  (#color)
 
 ### Things, Shapes & Arrangements
 
