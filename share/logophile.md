@@ -39,6 +39,7 @@
 -   To **abrogate** a law.  (#legal #language)
 -   To **abate** a tax, abate her enthusiasm.  (#legal #language)
 -   To be discreet, **prudent**, **circumspect**.  (#legal #language)
+-   To practice **sophrosyne** - self-control, moderation, discretion, prudence.  (#language #human #behavior #quality)
 -   He **ceded** his position to his superior.  (#legal #language)
 -   A **dismayingly** tenuous argument.  (#legal #language)
 -   The exercise of absolute authority - **despotism**.  (#legal #language #negative #power)
@@ -489,5 +490,7 @@ The word **emotion** is derived from the Latin word **emovere** \- meaning *to d
 -   **internecine** -  (#negative)
 -   This **supercilious** **sycophant** is getting on my nerves.  (#negative)
 -   **odious** - deserving or causing hatred, **detestable**.  (#negative #provoking #emotion)
+-   **paltriness** - the utterly worthless, insultingly small.  (#negative)
+-   **steeped** in merriment and friendship.  (#positive)
 
 ###### vim:syntax=markdown
