@@ -22,6 +22,7 @@
 -   **malapropism** was his gift.  (#language)
 -   **appellation** - the act of naming.  (#language)
 -   **metathesis** - the transposition of letters, syllables, or sounds in a word.  (#language)
+-   **cognomen** - alias, nickname, avatar, moniker, anonym, pseudonym.  (#language)
 
 #### Collective Nouns
 
@@ -39,7 +40,6 @@
 -   To **abrogate** a law.  (#legal #language)
 -   To **abate** a tax, abate her enthusiasm.  (#legal #language)
 -   To be discreet, **prudent**, **circumspect**.  (#legal #language)
--   To practice **sophrosyne** - self-control, moderation, discretion, prudence.  (#language #human #behavior #quality)
 -   He **ceded** his position to his superior.  (#legal #language)
 -   A **dismayingly** tenuous argument.  (#legal #language)
 -   The exercise of absolute authority - **despotism**.  (#legal #language #negative #power)
@@ -188,7 +188,8 @@
 -   **retiring** - a person that is shy or modest to a fault.  (#human #personality)
 -   **solemn**, **mirthless**, **earnest**.  (#human #personality)
 -   **hebetude** - the state of being dull; lethargy.  (#human #state)
--   **affluence** -  (#human #state)
+-   **affluence** - (#human #state)
+-   **virtuoso** - a highly skilled person in music, art, or other artistic persuit.  (#human #state)
 
 ### Choice
 
@@ -258,6 +259,11 @@
 -   **apostasy** - a total disertion or departure from one's religion, principles, party, cause, etc.  (#human #behavior #change)
 -   **sculduddery** - obscene behavior, lewdness,  fornication.  (#human #behavior #negative)
 -   **sculduggery** - mean dishonesty, trickery.  (#human #behavior #negative)
+-   **appetence - **vehement** desires.  (#human #state #behavior #negative)
+-   To practice **sophrosyne** - self-control, moderation, discretion, prudence.  (#language #human #behavior #quality)
+-   **conceited** - arrogant, having an excessively favorable opinion of one's abilities, appearance, etc.  (#negative #human #behavior)
+-   **foment** insurrection - instigate or stir up.  (#human #behavior)
+-   **insurrection** - an uprising.  (#human #behavior)
 
 ### Actions
 
@@ -269,7 +275,6 @@
 The word **emotion** is derived from the Latin word **emovere** \- meaning *to disturb*.  (#latin)
 
 -   **pathos** - a quality that stirs much emotions; a song that invoked a great deal of pathos; pity, sympathy.  (#emotion)
--   **desiderata** (**desideratum**) - things wanted or needed.  (#human #want #need #emotion)
 -   **tremulous** writing (written with a shaky hand).
 -   **barghest** - a legendary dog-like goblin believed to **portend** death or misfortune.
 -   **gargoyle** - a grotesquely carved figure of a vicious human or animal.
@@ -326,6 +331,8 @@ The word **emotion** is derived from the Latin word **emovere** \- meaning *to d
 -   **antipodes** (diametrically opposite one another on the globe).  (#physical #relative)
 -   **interstitial**.  (#physical #relative)
 -   **pinnate** - resembling a feather, as in construction or arrangement.  (#arrangement)
+-   **fungible** - able to replace or be replaced by another identical item; mutually interchangeable.  (#physical #object #quality)
+-   **desiderata** (**desideratum**) - things wanted or needed.  (#object #human #want #need #emotion)
 
 #### Literature and Books
 
@@ -370,7 +377,6 @@ The word **emotion** is derived from the Latin word **emovere** \- meaning *to d
 -   That **quidnunc** will never stop nosing around, and never shut up gossiping about it afterwards.
 -   To even try and value that piece of land is an exercise in **floccinaucinihilipilification**.
 -   **primordial** life
--   **vehement** desires
 -   Percival Lowell was most **indelibly** remembered for his belief that Mars was covered with canals built by industrious Martians for purposes of conveying water from polar regions to the dry but productive lands near the equator.
 -   Bruce Lee's **posthumous** recognition (after death); the **posthumous** birth of the child (born after death of father).
 -   This whole thing was an act, a deceptive and **consciously** staged **verisimilitude** designed to manipulate your decision.
