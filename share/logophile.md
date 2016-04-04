@@ -49,6 +49,8 @@
 -   **malfeasance** - illegal act by public official  (#legal #language #negative)
 -   I **assent**/**dissent** to your proposal.  I give my **assent**/**dissent** to this proposal.  (#legal #language)
 -   **isonomy** - equality in political rights.  (#legal #positive)
+-   He was **exalted** to an L7; complimentary colors **exalt** each other.  (#behavior #language #positive)
+-   He was **relegated** - consigned to an inferior position.  (#behavior #language #negative)
 
 ### Speech/Banter/Language
 
@@ -92,6 +94,8 @@
 -   A **parapraxis** is a Freudian slip.
 -   A **damagogue** is a a person, especially an orator or political leader, who gains power and popularity by arousing the emotions, passions, and prejudices of the people.  (#human #talk #provoke #emotion)
 -   Your theory leaves us with a great deal of **conjecture** and very little evidence.  (#talk #language)
+-   Your theory can only be accepted by a **credulous** crowd.  (#talk #language)
+-   Please **expound**; explain.  (#talk #language)
 
 ### Science
 
@@ -114,6 +118,7 @@
 -   To **beguile** the long afternoon with a good book.  (#time)
 -   Through the **vicissitudes** of my life, the ups and downs, I've learned that.  (#time)
 -   All thoughts, feelings, and sensation is **fleeting**, **fugacious**, **impermanent**.  (#time #quality #quantity)
+-   Since time **immemorial** (extending back beyond memory, record, or knowledge.  ((#time)
 
 ### Date
 
@@ -264,11 +269,13 @@
 -   **conceited** - arrogant, having an excessively favorable opinion of one's abilities, appearance, etc.  (#negative #human #behavior)
 -   **foment** insurrection - instigate or stir up.  (#human #behavior)
 -   **insurrection** - an uprising.  (#human #behavior)
+-   **intransigent** - refusing to agree or compromise; inflexible.  (#human #behavior)
 
 ### Actions
 
 -   **extirpate** - to destroy or exterminate.  (#negative #action)
 -   It's best to **premiate** (award) thrift than a strike.   (#action)
+-   To **palliate** - to releive, lessen without curing; to mitigate.  (#action)
 
 ### Emotions
 
@@ -333,6 +340,7 @@ The word **emotion** is derived from the Latin word **emovere** \- meaning *to d
 -   **pinnate** - resembling a feather, as in construction or arrangement.  (#arrangement)
 -   **fungible** - able to replace or be replaced by another identical item; mutually interchangeable.  (#physical #object #quality)
 -   **desiderata** (**desideratum**) - things wanted or needed.  (#object #human #want #need #emotion)
+-   **bifurcate** - to divide or fork in two branches.  (#object #physical)
 
 #### Literature and Books
 
@@ -362,6 +370,7 @@ The word **emotion** is derived from the Latin word **emovere** \- meaning *to d
 -   **dysentery** is not great.  (#disease negative)
 -   A **rapacious** **malady**.  (#disease negative)
 -   A **virulent** (spitefully hostile) virus.  (#disease #negative)
+-   A **valetudinarian**; person who is obsessed about their poor health.  (#health #disease)
 
 ### Other
 
@@ -402,7 +411,6 @@ The word **emotion** is derived from the Latin word **emovere** \- meaning *to d
 -   These two **amiable**/**affable** people share an **amicable** relationship.  (#positive)
 -   **propinquity** - nearness in time, place, or nature; **affinity** of nature.  (#positive)
 -   His **hortatory**/**exhorting** speech exulted her.  (#positive)
--   He was **exalted** to an L7; complimentary colors **exalt** each other.  (#positive)
 -   The day star - no longer **opulent** as it once had been - began to set.  (#positive)
 -   **sanguine** - cheerfully optimistic, hopeful or confident.  His **sanguine** disposition elevated and annoyed the entire team; **sanguine** expectations.  (#positive)
 -   The **irenic**/diplomatic qualities in the Irishman insisting on indulging the Englishman were altogether ironic.  (#positive)
@@ -499,4 +507,5 @@ The word **emotion** is derived from the Latin word **emovere** \- meaning *to d
 -   **paltriness** - the utterly worthless, insultingly small.  (#negative)
 -   **steeped** in merriment and friendship.  (#positive)
 
+###### exceedingly expansive extrapolations
 ###### vim:syntax=markdown
