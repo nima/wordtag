@@ -341,6 +341,7 @@ The word **emotion** is derived from the Latin word **emovere** \- meaning *to d
 -   **fungible** - able to replace or be replaced by another identical item; mutually interchangeable.  (#physical #object #quality)
 -   **desiderata** (**desideratum**) - things wanted or needed.  (#object #human #want #need #emotion)
 -   **bifurcate** - to divide or fork in two branches.  (#object #physical)
+-   **tessellate** - to form or arrange in a checkered or mosaic pattern.  (#object #physical)
 
 #### Literature and Books
 
