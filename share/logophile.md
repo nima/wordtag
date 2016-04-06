@@ -282,12 +282,13 @@
 The word **emotion** is derived from the Latin word **emovere** \- meaning *to disturb*.  (#latin)
 
 -   **pathos** - a quality that stirs much emotions; a song that invoked a great deal of pathos; pity, sympathy.  (#emotion)
--   **tremulous** writing (written with a shaky hand).
--   **barghest** - a legendary dog-like goblin believed to **portend** death or misfortune.
--   **gargoyle** - a grotesquely carved figure of a vicious human or animal.
--   He was a little **antsy**.
--   One with wisdom has no **affliction**; **afflicted** with heavy blows to his face.
--   **rancor** - bitter, rankling resentment or ill will; hatred; malice.
+-   **tremulous** writing (written with a shaky hand).  (#human #emotion)
+-   **barghest** - a legendary dog-like goblin believed to **portend** death or misfortune.  (#human #emotion)
+-   **gargoyle** - a grotesquely carved figure of a vicious human or animal.  (#human #emotion)
+-   He was a little **antsy**.  (#human #emotion)
+-   One with wisdom has no **affliction**; **afflicted** with heavy blows to his face.  (#human #emotion)
+-   **rancor** - bitter, rankling resentment or ill will; hatred; malice.  (#human #emotion)
+-   He caused a minor **contretemps** by knocking over his drink.  (#human #emotion)
 
 #### Love
 
@@ -297,9 +298,9 @@ The word **emotion** is derived from the Latin word **emovere** \- meaning *to d
 -   An **unwonted** kindness from an unkindness of vultures.  (#love #emotion)
 -   The **sapiosexual** was enticed by his erudite coquetry.  (#love #emotion)
 -   She spoke with **ardor**, from **whence** I developed **ardor** for her.  (#love #emotion #english)
--   She has an **amative**/**amorous** disposition.  (#love #personality)
+-   She has an **amative**/**amorous** disposition.  (#love #emotion #personality)
 
-### Surprise
+#### Surprise
 
 -   To my **consternation**, the champagne failed to bubble and fizz when uncorked in the compressed air of the tunnel.  (#emotion)
 
