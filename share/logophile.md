@@ -51,6 +51,8 @@
 -   **isonomy** - equality in political rights.  (#legal #positive)
 -   He was **exalted** to an L7; complimentary colors **exalt** each other.  (#behavior #language #positive)
 -   He was **relegated** - consigned to an inferior position.  (#behavior #language #negative)
+-   Make it a one-piece or this offer is **rescended**/**revoked**.
+-   He **reproched** her of cowardice.
 
 ### Speech/Banter/Language
 
@@ -96,6 +98,7 @@
 -   Your theory leaves us with a great deal of **conjecture** and very little evidence.  (#talk #language)
 -   Your theory can only be accepted by a **credulous** crowd.  (#talk #language)
 -   Please **expound**; explain.  (#talk #language)
+-   Such a **riposte** was a scandalous impertinence; a quick sharp return in speech or action; a brilliant repost to an insult.
 
 ### Science
 
@@ -136,7 +139,8 @@
 
 ### Nature
 
--   **sylvan** -
+-   **sylvan** - inhabiting the woods.
+-   **alfresco** - outdoors; to dine alfresco.  (#nature)
 
 ### Distance
 
@@ -192,7 +196,7 @@
 -   **koinophilia**.  (symmetry)
 -   **retiring** - a person that is shy or modest to a fault.  (#human #personality)
 -   **solemn**, **mirthless**, **earnest**.  (#human #personality)
--   **hebetude** - the state of being dull; lethargy.  (#human #state)
+-   **hebetude** - the state of being dull; lethargy; **prosaic**.  (#human #state)
 -   **affluence** - (#human #state)
 -   **virtuoso** - a highly skilled person in music, art, or other artistic persuit.  (#human #state)
 
@@ -220,6 +224,7 @@
 ### Power
 
 -   **ascendancy**, **predominance** (#power)
+-   he would rather claim kinship to an ape than to someone who used his **eminence** to propound uninformed twaddle.
 
 ### Intelligence
 
@@ -231,6 +236,8 @@
 -   **sagacity**.  (#intelligence)
 -   **discernment**.  (#intelligence)
 -   An **autodidact**. (#intelligence)
+-   Darwin's **lackluster** academic performance; lack of brilliance or vitality.  (#intelligence)
+-   **impertinent** - intrusive, irrelevant or presumptuous.
 
 ### Behaviors
 
@@ -366,6 +373,7 @@ The word **emotion** is derived from the Latin word **emovere** \- meaning *to d
 -   The early modern **epicedium** is structured around three themes: 1) praise the dead, 2) mourn the loss, and 3) comfort the bereaved.  (#death)
 -   He wrote his own **epitaph**.  (#death)
 -   His death-like **pallor**.  (#death)
+-   **posthumous** - after-death; posthumous fame.
 
 ##### Disease
 
@@ -509,5 +517,6 @@ The word **emotion** is derived from the Latin word **emovere** \- meaning *to d
 -   **paltriness** - the utterly worthless, insultingly small.  (#negative)
 -   **steeped** in merriment and friendship.  (#positive)
 
+###### perfectenschlag
 ###### exceedingly expansive extrapolations
 ###### vim:syntax=markdown
